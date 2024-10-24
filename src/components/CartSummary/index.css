@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.total-summary-con {
+  align-self: flex-end;
+}
+.order-total-p {
+  color: #616e7c;
+  font-size: 17px;
+  font-weight: 600;
+  margin: 0px;
+}
+.total-amount {
+  color: #171f46;
+  font-size: 25px;
+  font-weight: 600;
+  margin: 6px;
+}
+.items-count-p {
+  color: #616e7c;
+  font-size: 14px;
+  font-weight: 800;
+  margin: 6px;
+}
+.checkout-btn {
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 300;
+  margin: 7px;
+  background-color: #0b69ff;
+  width: 140px;
+  height: 33px;
+  border-radius: 8px;
+  border: none;
+}
